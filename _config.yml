@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale: "en-US"
-title: "Ronald Malengu"
+title: "Homepage"
 title_separator: "-"
 name: &name "Ronald Malengu"
 description: &description "personal description"

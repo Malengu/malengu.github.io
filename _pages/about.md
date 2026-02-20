@@ -19,9 +19,8 @@ I received my bachelor’s degree in Software Engineering from [Zhejiang Univers
 
 # 🔬 Research Interests
 
-- Computer Vision
 - Generative Models
-- Self Supervised Learning
+- Computer Vision
 - Reinforcement Learning
 
 ---

@@ -1,15 +1,13 @@
 ---
 permalink: /
-title: "Ronald Malengu"
+title: "Ronald Malengu (罗纳德)"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-# 🧑🏾‍🔬 About Me
-
-I am Ronald Malengu, a final-year master’s student in the [School of Computer Science and Technology](https://www.hitsz.edu.cn/) at Harbin Institute of Technology (Shenzhen), advised by Professor [Wenjie Pei](https://wenjiepei.github.io/). My research focuses on generative models and their applications in image refinement and multimodal learning.
+I am Ronald Malengu, a final-year master’s student in the School of Computer Science and Technology at [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/), advised by Professor [Wenjie Pei](https://wenjiepei.github.io/). My research focuses on generative models and their applications in image refinement and multimodal learning.
 
 I served as a Teaching Assistant for the Spring 2025 Machine Learning course taught by Professor [Baotian Hu](https://homepage.hit.edu.cn/hubaotian), where I guided students through laboratory sessions and supported them in implementing core machine learning algorithms.
 
@@ -19,8 +17,9 @@ I received my bachelor’s degree in Software Engineering from [Zhejiang Univers
 
 # 🔬 Research Interests
 
-- Generative Models
 - Computer Vision
+- Generative Models
+- Self-Supervised Learning
 - Reinforcement Learning
 
 ---
@@ -60,10 +59,8 @@ I received my bachelor’s degree in Software Engineering from [Zhejiang Univers
 
 ---
 
-# 📢 Media & Official Coverage
+# 📻 Media & Official Coverage
 
-- **2024 Shenzhen Universiade — Official Recognition**  
-  [WeChat Official Publication](https://mp.weixin.qq.com/s/_1F2hqxeR9xy5LtGBAea_A)
+- **[2024 Shenzhen Universiade — Official Recognition](https://mp.weixin.qq.com/s/_1F2hqxeR9xy5LtGBAea_A)**
 
-- **Faculty Stars at HITSZ (2023–2024) — Official Recognition**  
-  [WeChat Official Publication](https://mp.weixin.qq.com/s/GsrRVHZ3hb_ebJMT3RfXBw)
+- **[2023–2024 Faculty Stars at HITSZ — Official Recognition](https://mp.weixin.qq.com/s/GsrRVHZ3hb_ebJMT3RfXBw)**

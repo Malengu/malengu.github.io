@@ -62,6 +62,6 @@ I received my bachelor’s degree in Software Engineering from [Zhejiang Univers
 
 # 📻 Media & Official Coverage
 
-- **[2024 Shenzhen Universiade - Official Recognition](https://mp.weixin.qq.com/s/_1F2hqxeR9xy5LtGBAea_A)**
+- **[2024 Shenzhen Universiade - Official Recognition](https://mp.weixin.qq.com/s/GsrRVHZ3hb_ebJMT3RfXBw)**
 
-- **[2023–2024 Faculty Stars at HITSZ - Official Recognition](https://mp.weixin.qq.com/s/GsrRVHZ3hb_ebJMT3RfXBw)**
+- **[2023–2024 Faculty Stars at HITSZ - Official Recognition](https://mp.weixin.qq.com/s/_1F2hqxeR9xy5LtGBAea_A)**

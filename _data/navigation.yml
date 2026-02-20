@@ -21,7 +21,7 @@ main:
   #   url: /year-archive/
 
   - title: "CV"
-    url: "https://malengu.github.io/ronald-cv/"
+    url: /files/Ronald_resume.docx
 
   # - title: "Guide"
   #   url: /markdown/

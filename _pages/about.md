@@ -10,7 +10,7 @@ redirect_from:
 ![an inspiring image of being a researcher](/images/fun_inspiring_img.png){: .align-right width="300px"}
 I am Ronald Malengu, a final-year master’s student in the School of Computer Science and Technology at [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/), advised by Professor [Wenjie Pei](https://wenjiepei.github.io/). My research focuses on generative models and their applications in image refinement and multimodal learning.
 
-I served as a Teaching Assistant for the Spring 2025 Machine Learning course taught by Professor [Baotian Hu](https://homepage.hit.edu.cn/hubaotian), where I guided students through laboratory sessions and supported them in implementing core machine learning algorithms.
+I served as a Teaching Assistant for COMP5031: Machine Learning (Spring 2025), a course taught by Professor [Baotian Hu](https://homepage.hit.edu.cn/hubaotian) for international master's students at Harbin Institute of Technology. In this role, I guided students through laboratory sessions and supported them in implementing core machine learning algorithms.
 
 I received my bachelor’s degree in Software Engineering from [Zhejiang University of Technology](https://www.zjut.edu.cn/) in 2023.
 

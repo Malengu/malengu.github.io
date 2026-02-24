@@ -14,6 +14,8 @@ I served as a Teaching Assistant for COMP5031: Machine Learning (Spring 2025), a
 
 I received my bachelor’s degree in Software Engineering from [Zhejiang University of Technology](https://www.zjut.edu.cn/) in 2023.
 
+For more details, please see my [CV](https://malengu.github.io//files/Ronald_resume.pdf).
+
 ---
 
 # 🔬 Research Interests
